@@ -1,5 +1,3 @@
-## WEBENCH Design 7
-Created at Sun Aug 16 06:31:49 PDT 2020
 **********************************************************
 ***************** Schematic Instructions  ****************
 **********************************************************
@@ -77,31 +75,5 @@ For a video tutorial, please visit:
 http://youtu.be/pih50yx9HYU
 
 **********************************************************
-****************  SIMULATION Instructions  ***************
 **********************************************************
-This XML can be imported in Altium Designer 14 and higher using
-WEBENCH Altium Connector Extension and simulated using WEBENCH
-Simulation Engine.
-
-The WEBENCH Altium Connector provides an interface to the
-Texas Instruments WEBENCH Designer Tools as well as to open
-WEBENCH exported Designs directly from inside Altium Designer.
-It also includes the advanced WEBENCH Simulation Engine which
-can be used for offline circuit simulations.
-
-You will need to activate WEBENCH Altium Connector to be able
-to use the WEBENCH Simulation Engine.
-
-Installation guide:
-http://www.ti.com/lit/SNVU481
-You can download the WEBENCH extension from Altium Designer Extensions.
-
-Connector Details:
-http://www.ti.com/lsds/ti/analog/webench/altiumconnector.page
-
-More about WEBENCH simulation export to Altium:
-http://www.ti.com/lsds/ti/analog/webench/simexportaltium.page
-
-User Manual:
-http://www.ti.com/lit/szzu007
-
+**********************************************************
