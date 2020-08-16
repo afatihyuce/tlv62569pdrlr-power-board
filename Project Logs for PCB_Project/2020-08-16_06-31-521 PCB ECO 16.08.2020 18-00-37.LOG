@@ -1,0 +1,23 @@
+Added Component: Designator=COut1(CAPC1005X70N)
+Added Component: Designator=COut2(CAPC1005X70N)
+Added Component: Designator=COut3(CAPC1005X70N)
+Added Component: Designator=Q1(BC858CLT3G)
+Added Component: Designator=Q2(SOT96P237X111-3N)
+Added Pin To Net: NetName=NetCOut1_1 Pin=COut1-1
+Added Pin To Net: NetName=0 Pin=COut1-2
+Added Pin To Net: NetName=NetCOut1_1 Pin=COut2-1
+Added Pin To Net: NetName=0 Pin=COut2-2
+Added Pin To Net: NetName=NetCOut1_1 Pin=COut3-1
+Added Pin To Net: NetName=0 Pin=COut3-2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetCin_1 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=0 Pin=Q2-2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q2-3
+Added Member To Class: ClassName=2020-08-16_06-31-521 Member=Component COut1 GRJ155R60J106ME11D
+Added Member To Class: ClassName=2020-08-16_06-31-521 Member=Component COut2 GRJ155R60J106ME11D
+Added Member To Class: ClassName=2020-08-16_06-31-521 Member=Component COut3 GRJ155R60J106ME11D
+Added Member To Class: ClassName=2020-08-16_06-31-521 Member=Component Q1 BC858CLT3G
+Added Member To Class: ClassName=2020-08-16_06-31-521 Member=Component Q2 BC858BLT3G
+Added Room: Name=2020-08-16_06-31-521

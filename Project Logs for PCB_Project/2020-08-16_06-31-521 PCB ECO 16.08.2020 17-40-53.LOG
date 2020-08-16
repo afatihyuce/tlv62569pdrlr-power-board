@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=2 Pin=Cin-1
+Removed Pin From Net: NetName=5 Pin=Cout_1-1
+Removed Pin From Net: NetName=0 Pin=Cout_1-2
+Removed Pin From Net: NetName=5 Pin=Cout_2-1
+Removed Pin From Net: NetName=0 Pin=Cout_2-2
+Removed Pin From Net: NetName=5 Pin=Cout_3-1
+Removed Pin From Net: NetName=0 Pin=Cout_3-2
+Removed Pin From Net: NetName=0 Pin=GND1-1
+Removed Pin From Net: NetName=0 Pin=GND-1
+Removed Pin From Net: NetName=2 Pin=L1-1
+Removed Pin From Net: NetName=2 Pin=U1-3
+Removed Pin From Net: NetName=2 Pin=U1-4
+Removed Pin From Net: NetName=2 Pin=VIN-1
+Removed Pin From Net: NetName=5 Pin=VOUT-1
+Change Component DesignItemId : Designator=Rfbb Old DesignItemId= New DesignItemId=CRCW0402100KFKED
+Change Component DesignItemId : Designator=Rpgood Old DesignItemId= New DesignItemId=CRCW0402475KFKED
+Change Component DesignItemId : Designator=Cin Old DesignItemId= New DesignItemId=GRM155R61A475MEAAD
+Change Component DesignItemId : Designator=L1 Old DesignItemId= New DesignItemId=IHLP2020CZER2R2M11
+Change Component DesignItemId : Designator=Rfbt Old DesignItemId= New DesignItemId=RC0201FR-07442KL
+Change Component DesignItemId : Designator=U1 Old DesignItemId= New DesignItemId=TLV62569PDRLR
+Change Component Description : Designator=Rfbb Old Description= New Description=CRCW0402100KFKED
+Change Component Description : Designator=Rpgood Old Description= New Description=CRCW0402475KFKED
+Change Component Description : Designator=Cin Old Description= New Description=GRM155R61A475MEA
+Change Component Description : Designator=Rfbt Old Description= New Description=RC0201FR-07442KL
+Change Component Description : Designator=U1 Old Description= New Description=TLV62569PDRLR
+Change Component Description : Designator=L1 Old Description= New Description=Unknown
+Change Component Library : Designator=Cin Old Library= New Library=TI WEBENCH
+Change Component Library : Designator=L1 Old Library= New Library=TI WEBENCH
+Change Component Library : Designator=Rfbb Old Library= New Library=TI WEBENCH
+Change Component Library : Designator=Rfbt Old Library= New Library=TI WEBENCH
+Change Component Library : Designator=Rpgood Old Library= New Library=TI WEBENCH
+Change Component Library : Designator=U1 Old Library= New Library=TI WEBENCH
+Added Component: Designator=COut1(CAPC1005X70N)
+Added Component: Designator=COut2(CAPC1005X70N)
+Added Component: Designator=COut3(CAPC1005X70N)
+Added Component: Designator=Q1(BC858CLT3G)
+Added Component: Designator=Q2(SOT96P237X111-3N)
+Added Pin To Net: NetName=5 Pin=COut1-1
+Added Pin To Net: NetName=0 Pin=COut1-2
+Added Pin To Net: NetName=5 Pin=COut2-1
+Added Pin To Net: NetName=0 Pin=COut2-2
+Added Pin To Net: NetName=5 Pin=COut3-1
+Added Pin To Net: NetName=0 Pin=COut3-2
+Added Pin To Net: NetName=2 Pin=Q1-3
+Added Pin To Net: NetName=0 Pin=Q2-2
+Change Net Name : Old Net Name=1 New Net Name=NetRfbb_1
+Change Net Name : Old Net Name=2 New Net Name=NetQ1_3
+Change Net Name : Old Net Name=5 New Net Name=NetCOut1_1
+Change Net Name : Old Net Name=6 New Net Name=NetRpgood_1
+Added Pin To Net: NetName=NetCin_1 Pin=Cin-1
+Added Pin To Net: NetName=NetCin_1 Pin=Q1-2
+Added Pin To Net: NetName=NetCin_1 Pin=U1-3
+Added Net: Name=NetCin_1
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=U1-4
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q2-3
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Net: Name=NetQ2_1
+Added Class: Name=2020-08-16_06-31-521
+Added Room: Name=2020-08-16_06-31-521
