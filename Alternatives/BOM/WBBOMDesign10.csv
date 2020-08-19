@@ -1,0 +1,7 @@
+﻿Part;Manufacturer;Part Number;Quantity;Price ($);Footprint (mm²);Description
+Rfbt;Vishay-Dale;CRCW0402453KFKED;1;0.01;3;Resistance: 453 kΩ  Tolerance: 1.0%  Power: 63 mW  
+Rfbb;Vishay-Dale;CRCW0402100KFKED;1;0.01;3;Resistance: 100 kΩ  Tolerance: 1.0%  Power: 63 mW  
+U1;Texas Instruments;TLV62569ADRLR;1;0.11;Haz.76;
+Cin;TDK;C1608X7S1A475K080AC;1;0.05;Nis.68;Cap: 4.7 µF  Total Derated Cap: 1.6 µF  VDC: 10 V  ESR: 3.73 mΩ  Package: 0603  
+L1;Bourns;SRN8040-1R0Y;1;0.27;100;L: 1 µH  DCR: 10 mΩ  IDC: 7.8 A  
+Cout;MuRata;GRM188R60J226MEA0D;1;0.05;Nis.68;Cap: 22 µF  Total Derated Cap: 7.9 µF  VDC: 6.3 V  ESR: 1 mΩ  Package: 0603  
