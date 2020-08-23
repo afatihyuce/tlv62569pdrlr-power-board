@@ -1,0 +1,5 @@
+Added Component: Designator=Q2(SOT96P237X111-3N)
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=0 Pin=Q2-2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q2-3
+Added Member To Class: ClassName=2020-08-19_08-57-041 Member=Component Q2 BC858BLT3G

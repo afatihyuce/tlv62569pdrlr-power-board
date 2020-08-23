@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=0 Pin=Cin-2
+Removed Pin From Net: NetName=0 Pin=Cout-2
+Removed Pin From Net: NetName=0 Pin=L1-1
+Removed Pin From Net: NetName=0 Pin=Rfbb-2
+Change Component DesignItemId : Designator=L1 Old DesignItemId= New DesignItemId=SRN8040-1R0Y
+Change Component DesignItemId : Designator=U1 Old DesignItemId= New DesignItemId=TLV62569ADRLR
+Change Component Comment : Designator=L1 Old Comment=Comment New Comment=SRN8040-1R0Y
+Change Component Comment : Designator=U1 Old Comment=Comment New Comment=TLV62569ADRLR
+Change Component Description : Designator=L1 Old Description= New Description=Inductor
+Change Component Description : Designator=U1 Old Description= New Description=TLV62569ADRLR
+Change Component Library : Designator=L1 Old Library= New Library=Main.SchLib
+Change Component Library : Designator=U1 Old Library= New Library=TI WEBENCH
+Added Pin To Net: NetName=NetC1_2 Pin=L1-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_2 Pin=U1-3
+Added Pin To Net: NetName=NetC2_2 Pin=U1-5
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=U1-4
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-1
+Added Net: Name=NetR1_1
+Added Class: Name=2020-08-19_08-57-041
+Added Room: Name=2020-08-19_08-57-041

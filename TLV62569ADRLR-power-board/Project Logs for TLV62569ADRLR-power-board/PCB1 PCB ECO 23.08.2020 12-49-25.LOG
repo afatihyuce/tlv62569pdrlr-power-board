@@ -1,0 +1,20 @@
+Added Component: Designator=C1(CAPC1005X70N)
+Added Component: Designator=C2(CAPC1608X90N)
+Added Component: Designator=L1(SRN80408R2Y)
+Added Component: Designator=R1(RESC1005X40N)
+Added Component: Designator=R2(RESC1005X40N)
+Added Pin To Net: NetName=0 Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=0 Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetC1_2 Pin=L1-2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetC1_2 Pin=R1-2
+Added Pin To Net: NetName=0 Pin=R2-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-2
+Added Member To Class: ClassName=2020-08-19_08-57-041 Member=Component C1 C_CER_226_0603
+Added Member To Class: ClassName=2020-08-19_08-57-041 Member=Component C2 C1608X7S1A475K080AC
+Added Member To Class: ClassName=2020-08-19_08-57-041 Member=Component L1 SRN8040-1R0Y
+Added Member To Class: ClassName=2020-08-19_08-57-041 Member=Component R1 CRCW0402453KFKED
+Added Member To Class: ClassName=2020-08-19_08-57-041 Member=Component R2 CRCW0402100KFKED
