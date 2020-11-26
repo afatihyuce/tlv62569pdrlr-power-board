@@ -696,5 +696,20 @@ PhysicalDesignatorLocked98=0
 [SheetNumberManager]
 SheetNumberOrder=Display Order
 SheetNumberMethod=Increasing
+DocumentName0=0_Top.SchDoc
+UniqueIDPath0=
+SheetNumber0=1
+DocumentName1=A_USB2Serial.SchDoc
+UniqueIDPath1=\WRZVOGVW
+SheetNumber1=3
+DocumentName2=B_E-Label.SchDoc
+UniqueIDPath2=\NJDPCNQB
+SheetNumber2=4
+DocumentName3=P_Power.schdoc
+UniqueIDPath3=\HETGAGZN
+SheetNumber3=2
+DocumentName4=uC.SchDoc
+UniqueIDPath4=\JQLSZRHU
+SheetNumber4=5
 
 
